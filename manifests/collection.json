@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest1.json",
     "label" : "Heiniger - Weinglas für Buch"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_n.json",
+    "label" : "Negativ"
   } ]
 }
