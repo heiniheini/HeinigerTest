@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hier auf dem Negativ ist klar und deutlich der Lichtglanz auf dem Glasrand zu sehen. Dieser wurde auf dem Abzug, der als Vorlage f&uuml;r das Buch \"Masterpieces\" diente, wegretuschiert.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hier auf dem Negativ ist klar und deutlich der Lichtglanz auf dem Glasrand zu sehen. Dieser wurde auf dem Abzug, der als Vorlage f&uuml;r das Buch \"Masterpieces\" diente, wegretuschiert.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T10:50:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644490256163",
+    "dcterms:modified" : "2022-02-10T10:52:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_n.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2164,949,212,73"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2194.88736,959.75787c19.60581,-6.10712 47.26298,-10.65488 75.05417,-10.64945v0v0c27.79119,0.00543 52.00199,4.25979 75.05417,10.64945c23.05218,6.38966 32.01227,16.12625 31.08845,25.71004c-0.92382,9.58379 -11.73155,19.01476 -31.08845,25.71004c-19.3569,6.69528 -47.26298,10.65488 -75.05417,10.64945c-27.79119,-0.00543 -55.46751,-3.9759 -75.05417,-10.64945c-19.58666,-6.67355 -31.08366,-16.05019 -31.08845,-25.71004c-0.00479,-9.65985 11.48264,-19.60292 31.08845,-25.71004z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_23f51df4-c705-47e3-b429-855a5f037189\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.85455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://38501fae-79d1-4d87-826a-9b08ec061421"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Diese Reflexion ist vermutlich beim Umleiten des Tageslichts mittels Spiegel entstanden. Sie wurde auf dem Abzug f&uuml;r das buch \"Masterpieces\" ebenfalls wegretuschiert.\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Diese Reflexion ist vermutlich beim Umleiten des Tageslichts mittels Spiegel entstanden. Sie wurde auf dem Abzug f&uuml;r das buch \"Masterpieces\" ebenfalls wegretuschiert.</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T15:24:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644506678482",
+    "dcterms:modified" : "2022-02-10T15:26:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_n.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=150,0,1609,1655"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M513.4862,1513.71042c172.57492,-123.45637 397.47729,-315.47065 602.61145,-528.5047v0v0c205.13416,-213.03405 364.46676,-417.28202 505.51173,-622.02546c141.04496,-204.74343 162.80148,-316.17172 112.2901,-351.17214c-50.51139,-35.00042 -173.29069,6.42702 -346.70955,125.39306c-173.41886,118.96603 -397.47729,315.47065 -602.61145,528.5047c-205.13416,213.03405 -391.34405,442.59754 -505.51173,622.02546c-114.16768,179.42791 -156.29315,308.72025 -112.2901,351.17214c44.00305,42.45188 174.13463,-1.93669 346.70955,-125.39306z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:-46.075621412439034,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_6b92b3c2-6387-436a-8704-063d7a6abcff\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"83.65681\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://38501fae-79d1-4d87-826a-9b08ec061421"
+    } ]
+  } ],
+  "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/2e9a3561240e471385e9540351f677a2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
