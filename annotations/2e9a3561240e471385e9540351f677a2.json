@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hier auf dem Negativ ist klar und deutlich der Lichtglanz auf dem Glasrand zu sehen. Dieser wurde auf dem Abzug, der als Vorlage f&uuml;r das Buch \"Masterpieces\" diente, wegretuschiert.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hier auf dem Negativ ist klar und deutlich der Lichtglanz auf dem Glasrand zu sehen. Dieser wurde auf dem Abzug, der als Vorlage f&uuml;r das Buch \"Masterpieces\" diente, wegretuschiert.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T10:50:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644490256163",
+    "dcterms:modified" : "2022-02-10T10:52:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_n.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2164,949,212,73"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2194.88736,959.75787c19.60581,-6.10712 47.26298,-10.65488 75.05417,-10.64945v0v0c27.79119,0.00543 52.00199,4.25979 75.05417,10.64945c23.05218,6.38966 32.01227,16.12625 31.08845,25.71004c-0.92382,9.58379 -11.73155,19.01476 -31.08845,25.71004c-19.3569,6.69528 -47.26298,10.65488 -75.05417,10.64945c-27.79119,-0.00543 -55.46751,-3.9759 -75.05417,-10.64945c-19.58666,-6.67355 -31.08366,-16.05019 -31.08845,-25.71004c-0.00479,-9.65985 11.48264,-19.60292 31.08845,-25.71004z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_23f51df4-c705-47e3-b429-855a5f037189\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.85455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://38501fae-79d1-4d87-826a-9b08ec061421"
+    } ]
+  } ],
+  "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/2e9a3561240e471385e9540351f677a2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
