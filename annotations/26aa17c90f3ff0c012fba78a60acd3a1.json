@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "F&uuml;r die Aufnahme hat Heiniger mit Spiegeln das Tageslicht auf das Motiv umgeleitet, um kein elektrisches Licht verwenden zu m&uuml;ssen, denn dieses h&auml;tte f&uuml;r den Weissweinstern zu viel W&auml;rme abgesondert. Der Lichtstreifen stammt vermutlich von den Reflektionen des Spiegelsystems.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>F&uuml;r die Aufnahme hat Heiniger mit Spiegeln das Tageslicht auf das Motiv umgeleitet, um kein elektrisches Licht verwenden zu m&uuml;ssen, denn dieses h&auml;tte f&uuml;r den Weissweinstern zu viel W&auml;rme abgesondert. Der Lichtstreifen stammt vermutlich von den Reflektionen des Spiegelsystems.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T15:41:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644853269339",
+    "dcterms:modified" : "2022-02-14T15:41:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=15,-5,312,422"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M316.23288,88.68222c13.44254,-42.49026 16.1653,-79.23339 0.63308,-90.0616v0v0c-15.53221,-10.82821 -46.03144,3.97461 -84.40992,31.40793c-38.37848,27.43332 -82.25584,79.46095 -120.00674,134.47912c-37.7509,55.01817 -69.37533,113.0269 -85.30524,158.77427c-15.92991,45.74737 -16.1653,79.23339 -0.63308,90.0616c15.53221,10.82821 46.83203,-1.0014 84.40992,-31.40793c37.57789,-30.40653 81.43385,-79.38997 120.00674,-134.47912c38.57289,-55.08915 71.86269,-116.28401 85.30524,-158.77427z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:-325.0034432263996,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_7e48600f-cc7d-4ea9-8135-3ba4671202d1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8f9c2a03-3be1-49cd-9dfc-1e28b3cf4e01"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lichteffekt auf dem Glasrand, der auf dem Abzug von 1952 von Heiniger wegretuschiert wurde.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lichteffekt auf dem Glasrand, der auf dem Abzug von 1952 von Heiniger wegretuschiert wurde.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T15:50:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644853841893",
+    "dcterms:modified" : "2022-02-14T15:50:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=525,183,62,39"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M534.42802,188.95131c5.71473,-3.26455 13.77628,-5.69555 21.8769,-5.69264v0v0c8.10062,0.0029 15.15761,2.27706 21.8769,5.69264c6.71928,3.41558 9.33098,8.62026 9.06171,13.74325c-0.26928,5.12299 -3.41953,10.1643 -9.06171,13.74325c-5.64218,3.57895 -13.77628,5.69555 -21.8769,5.69264c-8.10062,-0.0029 -16.16775,-2.12531 -21.8769,-5.69264c-5.70915,-3.56733 -9.06031,-8.5796 -9.06171,-13.74325c-0.0014,-5.16366 3.34698,-10.4787 9.06171,-13.74325z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_95cfa0cd-3f20-47a7-b067-ed407fb036eb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8f9c2a03-3be1-49cd-9dfc-1e28b3cf4e01"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ein Weissweinstern entsteht, wenn der Wein bei k&uuml;hler Temperatur aus grosser H&ouml;he in ein Glas gegossen wird.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ein Weissweinstern entsteht, wenn der Wein bei k&uuml;hler Temperatur aus grosser H&ouml;he in ein Glas gegossen wird.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T15:42:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644853325192",
+    "dcterms:modified" : "2022-02-14T16:04:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=284,286,551,481"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M364.94399,696.78315c50.87841,40.43697 122.65066,70.54901 194.77071,70.51303v0v0c72.12005,-0.03598 134.94871,-28.2053 194.77071,-70.51303c59.822,-42.30773 83.07405,-106.77653 80.67667,-170.23351c-2.39738,-63.45698 -30.44418,-125.90213 -80.67667,-170.23351c-50.23249,-44.33138 -122.65066,-70.54901 -194.77071,-70.51303c-72.12005,0.03598 -143.94198,26.32555 -194.77071,70.51303c-50.82873,44.18748 -80.66425,106.27287 -80.67667,170.23351c-0.01242,63.96064 29.79826,129.79654 80.67667,170.23351z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_4bac018a-097a-4c10-baa7-60ae81e295af\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"20.49897\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8f9c2a03-3be1-49cd-9dfc-1e28b3cf4e01"
+    } ]
+  } ],
+  "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/26aa17c90f3ff0c012fba78a60acd3a1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
