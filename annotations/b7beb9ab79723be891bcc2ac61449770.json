@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Der Abzug des Weissweinsterns von 1952, der von Heiniger als Vorlage f&uuml;r das Fotobuch erstellt und retuschiert wurde, war 2021 in der Ausstellung Ernst A. Heiniger &ndash; Good Morning World! in der Fotostiftung Schweiz in Winterthur ausgestellt, zusammen mit weiteren Abz&uuml;gen anderer Motive, die ebenfalls als Druckvorlage f&uuml;r das Fotobuch erstellt wurden.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Der Abzug des Weissweinsterns von 1952, der von Heiniger als Vorlage f&uuml;r das Fotobuch erstellt und retuschiert wurde, war 2021 in der Ausstellung <em>Ernst A. Heiniger &ndash; Good Morning World!</em> in der Fotostiftung Schweiz in Winterthur ausgestellt, zusammen mit weiteren Abz&uuml;gen anderer Motive, die ebenfalls als Druckvorlage f&uuml;r das Fotobuch erstellt wurden.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T18:17:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644862629617",
+    "dcterms:modified" : "2022-02-14T18:19:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1123,537,66,95"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1122.83499,537.65698l63.63636,-0.90909l2.72727,95.45455l-65.45455,-3.63636l-0.90909,-89.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_ab676774-b00a-4f88-afd4-e5ba04a51a5b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f74905cf-eacc-4414-855c-3b435272c76c"
+    } ]
+  } ],
+  "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/b7beb9ab79723be891bcc2ac61449770.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
