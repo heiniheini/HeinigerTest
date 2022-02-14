@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Das Fotobuch&nbsp;Masterpieces (Englische Ausgabe) / Das Jahr des Photographen (Deutsche Ausgabe) erschien 1952 mit 52 Bildern aus dem bisherigen Schaffen von Heiniger. Die beiden Ausgaben unterscheiden sich voneinander: die Einleitungen sind total verschieden, die Bildauswahl leicht ver&auml;ndert und die Bildlegenden ebenfalls recht unterschiedlich.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Das Fotobuch&nbsp;<em>Masterpieces </em>(Englische Ausgabe)<em> / Das Jahr des Photographen </em>(Deutsche Ausgabe) erschien 1952 mit 52 Bildern aus dem bisherigen Schaffen von Heiniger. Die beiden Ausgaben unterscheiden sich voneinander: die Einleitungen sind total verschieden, die Bildauswahl leicht ver&auml;ndert und die Bildlegenden ebenfalls recht unterschiedlich.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T18:10:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644862236937",
+    "dcterms:modified" : "2022-02-14T18:20:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=156,110,720,786"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M875.76632,896.42258h-359.91423v0h-359.91423v-393.02563v-393.02563h359.91423h359.91423v393.02563z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_e45d9828-fdc8-455c-a90f-60b04a29b22a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.8866\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://db489bed-cfdd-4795-9e6d-bd3a6d7d2c29"
+    } ]
+  } ],
+  "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/400fac73976ef072b1d4ce139b75a26b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
