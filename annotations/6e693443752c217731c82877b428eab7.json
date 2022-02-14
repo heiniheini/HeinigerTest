@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hier hat Heiniger den Bildausschnitt f&uuml;r das Fotobuch &laquo;Masterpices&raquo; / &laquo;Das Jahr des Photographen&raquo; eingezeichnet.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hier hat Heiniger den Bildausschnitt f&uuml;r das Fotobuch &laquo;Masterpices&raquo; / &laquo;Das Jahr des Photographen&raquo; eingezeichnet.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T17:58:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644861518465",
+    "dcterms:modified" : "2022-02-14T17:58:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=88,126,949,1012"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M126.92042,125.58406l454.96399,18.15957v0l454.96399,18.15957l-19.48068,488.06266l-19.48068,488.06266l-454.96399,-18.15957l-454.96399,-18.15957l19.48068,-488.06266z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:2.285707875753856,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b1e69706-c7f3-4164-a024-95c0ffdb46e6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"17.3567\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://798589b7-7ae5-4566-acaa-c997b85793a3"
+    } ]
+  } ],
+  "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/6e693443752c217731c82877b428eab7.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
