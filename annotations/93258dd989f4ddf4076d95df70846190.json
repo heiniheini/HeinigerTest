@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Diesen Abzug hat Heiniger als Vorlage f&uuml;r die Publikation &laquo;Masterpieces&raquo; (E) / &laquo;Das Jahr des Photographen&raquo; (D) von 1952 erstellt. Im Vorwort der englischsprachigen Publikation schreibt er: &laquo;[&hellip;] Whilst retouchin a photographs for my customers I began to realise that it was rather silly to try to improve photographs when the obvious thing was to take good pictures right from the start &ndash; pictures that would not need retouching. To prove my point I set out to buy a camera on the instalment plan and offered my customers to replace bad photographs by good ones at the cost of retouching. Since then I have remained faithful to my principle of never retouching a picture to make it look better. On occasion I have touched up the subject before taking the photograph, but never the picture itself.&raquo; Der Vergleich von Negativ und Abzug und die detaillierte Untersuchung der Oberfl&auml;che des Abzugs zeigen eindeutig, dass sich Heiniger nicht immer an sein Prinzip gehalten hat.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Diesen Abzug hat Heiniger als Vorlage f&uuml;r die Publikation &laquo;Masterpieces&raquo; (E) / &laquo;Das Jahr des Photographen&raquo; (D) von 1952 erstellt. Im Vorwort der englischsprachigen Publikation schreibt er: &laquo;[&hellip;] Whilst retouchin a photographs for my customers I began to realise that it was rather silly to try to improve photographs when the obvious thing was to take good pictures right from the start &ndash; pictures that would not need retouching. To prove my point I set out to buy a camera on the instalment plan and offered my customers to replace bad photographs by good ones at the cost of retouching. Since then I have remained faithful to my principle of never retouching a picture to make it look better. On occasion I have touched up the subject before taking the photograph, but never the picture itself.&raquo; <br />Der Vergleich von Negativ und Abzug und die detaillierte Untersuchung der Oberfl&auml;che des Abzugs zeigen eindeutig, dass sich Heiniger nicht immer an sein Prinzip gehalten hat.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T17:37:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644860242089",
+    "dcterms:modified" : "2022-02-14T17:37:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=65,413,1089,887"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M64.88144,412.81959h544.5567v0h544.5567v443.47423v443.47423h-544.5567h-544.5567v-443.47423z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_468a12e1-4208-42a0-8929-ce12fc4096ea\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://18d055bc-13b5-4e68-acac-06ac552fa150"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hier hat Heiniger den Lichtreflex auf dem Glasrand mittels Retusche abgeschw&auml;cht.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hier hat Heiniger den Lichtreflex auf dem Glasrand mittels Retusche abgeschw&auml;cht.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T16:00:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644854429596",
+    "dcterms:modified" : "2022-02-14T17:40:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=495,130,171,40"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M519.70175,135.41922c15.77918,-3.34658 38.03827,-5.83867 60.40522,-5.83569v0v0c22.36695,0.00298 41.85232,2.33428 60.40522,5.83569c18.5529,3.50141 25.76417,8.83688 25.02066,14.08861c-0.74351,5.25173 -9.44181,10.41972 -25.02066,14.08861c-15.57885,3.66889 -38.03827,5.83867 -60.40522,5.83569c-22.36695,-0.00298 -44.64145,-2.17871 -60.40522,-5.83569c-15.76377,-3.65698 -25.01681,-8.79519 -25.02066,-14.08861c-0.00385,-5.29342 9.24148,-10.74203 25.02066,-14.08861z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_435217be-45f6-4474-9c0d-bab56f781879\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"13.73196\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://18d055bc-13b5-4e68-acac-06ac552fa150"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "In dieser Ecke hat Heiniger den Lichtreflex mit grauer Spr&uuml;hfarbe wegretuschiert.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>In dieser Ecke hat Heiniger den Lichtreflex mit grauer Spr&uuml;hfarbe wegretuschiert.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T16:02:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644854579124",
+    "dcterms:modified" : "2022-02-14T17:40:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=109,82,325,314"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M112.02062,81.83505l322.1687,4.24555l-312.16682,309.43768l-13.0328,-310.6523z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_bf699b3e-4aa6-4a42-9a2b-999de222cfeb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.86598\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://18d055bc-13b5-4e68-acac-06ac552fa150"
+    } ]
+  } ],
+  "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/93258dd989f4ddf4076d95df70846190.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
