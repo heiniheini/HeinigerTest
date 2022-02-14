@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Diese Aufnahme im Grossformat 9 x 12 cm hat Ernst Albrecht Heiniger (1909&ndash;1993) im Jahr 1939 in seinem Atelier an der St. Annagasse in Z&uuml;rich mit einer Linhof Kamera gemacht. Es handelt sich vermutlich um eine freie Arbeit, die nicht f&uuml;r einen bestimmten Auftrag entstanden ist.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Diese Aufnahme im Grossformat 9 x 12 cm hat Ernst Albrecht Heiniger (1909&ndash;1993) im Jahr 1939 in seinem Atelier an der St. Annagasse in Z&uuml;rich mit einer Linhof Kamera gemacht. Es handelt sich vermutlich um eine freie Arbeit, die nicht f&uuml;r einen bestimmten Auftrag entstanden ist.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T14:39:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644849578071",
+    "dcterms:modified" : "2022-02-14T14:42:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=-2,-2,1202,1667"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M-2,-2h601v0h601v833.5v833.5h-601h-601v-833.5z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_7b98ee21-8c65-4904-a6e6-c2ceffe56e25\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.8866\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4c892078-27c2-486f-9f14-3ef0782781ff"
+    } ]
+  } ],
+  "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/ee426f11f94d25f9ed4deac4c88b1d87.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
