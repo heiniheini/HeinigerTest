@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dieser Abzug des Weissweinsterns ging 1977 in die Sammlung der damals noch Schweizerische Stiftung f&uuml;r Photographie genannte Institution ein und wurde vermutlich 1979 bei der Ausstellung Ernst A. Heiniger &ndash; Von der Retusche zur Light Art im Kunsthaus Z&uuml;rich ausgestellt (Ausstellungsansichten der Ausstellung sind leider nicht vorhanden).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dieser Abzug des Weissweinsterns ging 1977 in die Sammlung der damals noch Schweizerische Stiftung f&uuml;r Photographie genannte Institution ein und wurde vermutlich 1979 bei der Ausstellung <em>Ernst A. Heiniger &ndash; Von der Retusche zur Light Art</em> im Kunsthaus Z&uuml;rich ausgestellt (Ausstellungsansichten der Ausstellung sind leider nicht vorhanden).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T18:48:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644864507879",
+    "dcterms:modified" : "2022-02-14T18:59:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,203,1198,1283"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1197.76804,203.02577h-598.88402v0h-598.88402v641.39433v641.39433h598.88402h598.88402v-641.39433z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_4e13db6c-f731-42fe-a8af-06b32f8630e0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.8866\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://43e7b93f-ed54-430e-999c-081bb850f688"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Der Lichtreflex auf dem Glasrand wurde bei diesem Abzug so belassen wie auf dem Negativ und nicht wie bei der Druckvorlage mittels Retusche abgeschw&auml;cht.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Der Lichtreflex auf dem Glasrand wurde bei diesem Abzug so belassen wie auf dem Negativ und nicht wie bei der Druckvorlage mittels Retusche abgeschw&auml;cht.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T18:55:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644864959300",
+    "dcterms:modified" : "2022-02-14T18:55:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=542,31,123,63"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M559.65895,40.49498c11.39758,-5.29269 27.47571,-9.23397 43.63176,-9.22926v0v0c16.15605,0.00471 30.23068,3.69172 43.63176,9.22926c13.40109,5.53754 18.60992,13.97569 18.07287,22.28141c-0.53705,8.30571 -6.81998,16.47899 -18.07287,22.28141c-11.25288,5.80242 -27.47571,9.23397 -43.63176,9.22926c-16.15605,-0.00471 -32.24531,-3.44568 -43.63176,-9.22926c-11.38645,-5.78358 -18.07008,-13.90977 -18.07287,-22.28141c-0.00278,-8.37164 6.67529,-16.98872 18.07287,-22.28141z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_dd90696e-0d5f-4856-a06d-6608ea49bd12\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://43e7b93f-ed54-430e-999c-081bb850f688"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Der Lichtreflex wurde auf diesem Abzug nicht wie bei der Druckvorlage von 1952 wegretuschiert, sondern so belassen wie auf dem Negativ.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Der Lichtreflex wurde auf diesem Abzug nicht wie bei der Druckvorlage von 1952 wegretuschiert, sondern so belassen wie auf dem Negativ.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T19:03:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644865411348",
+    "dcterms:modified" : "2022-02-14T19:07:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5,7,156,149"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M8.76289,155.43814l152.57732,-148.76289l-156.39175,3.81443z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_419ab19e-14d9-4793-82d5-7e4fb8251e1d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.8866\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://43e7b93f-ed54-430e-999c-081bb850f688"
+    } ]
+  } ],
+  "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/f25180ea89c34461a8c8d7eeef0ffb70.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
