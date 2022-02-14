@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Das Bild Weissweinstern war ebenfalls f&uuml;r die Ausstellung vorgesehen. Der Bildausschnitt &auml;hnelt dem des Abzugs von 1977, es ist von daher denkbar, dass die Skizze f&uuml;r die Ausstellung Ernst A. Heiniger &ndash; Von der Retusche zur Light Art von 1979 im Kunsthaus Z&uuml;rich angefertigt wurde.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Das Bild Weissweinstern war ebenfalls f&uuml;r die Ausstellung vorgesehen. Der Bildausschnitt &auml;hnelt dem des Abzugs von 1977, es ist von daher denkbar, dass die Skizze f&uuml;r die Ausstellung <em>Ernst A. Heiniger &ndash; Von der Retusche zur Light Art</em> von 1979 im Kunsthaus Z&uuml;rich angefertigt wurde.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T19:32:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644867169680",
+    "dcterms:modified" : "2022-02-14T19:42:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1414,445,228,351"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1414.068,444.76655h114.10545v0h114.10545v175.37091v175.37091h-114.10545h-114.10545v-175.37091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_2d04051d-6af3-4d09-aefe-cc0ac61b40fc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"11.31055\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://decdc386-db63-4c67-a8a0-4da78e0ec450"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Skizzierter Ausstellungsplan von Ernst A. Heiniger, undatiert. &Uuml;berschrift: &laquo;Massstab 1:10, Wand Nr. A, Sachwiedergaben, Schwarz-Weiss&raquo;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Skizzierter Ausstellungsplan von Ernst A. Heiniger, undatiert. &Uuml;berschrift: &laquo;Massstab 1:10, Wand Nr. A, Sachwiedergaben, Schwarz-Weiss&raquo;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T19:19:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644866388897",
+    "dcterms:modified" : "2022-02-14T19:22:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=166,332,750,41"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M166.08727,332.24049h374.87636v0h374.87636v20.63636v20.63636h-374.87636h-374.87636v-20.63636z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_fb342676-988c-4bee-8835-c48510b38153\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://decdc386-db63-4c67-a8a0-4da78e0ec450"
+    } ]
+  } ],
+  "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/6ae3030c76556e9bfcbb028b4284c0a0.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
