@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_n.json",
     "label" : "Negativ"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json",
+    "label" : "Fotostiftung Schweiz - Nachlass Ernst A. Heiniger - Weissweinstern"
   } ]
 }
