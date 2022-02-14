@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://heiniheini.github.io/HeinigerTest/annotations/2e9a3561240e471385e9540351f677a2.json" ],
+  "otherContent" : [ "https://heiniheini.github.io/HeinigerTest/annotations/2e9a3561240e471385e9540351f677a2.json", "https://heiniheini.github.io/HeinigerTest/annotations/4d2a526df04969d8fd5a7cd3a31ebfe7.json" ],
   "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/collection.json",
   "label" : "All annotations loaded in heiniheini/HeinigerTest project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
