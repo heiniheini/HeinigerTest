@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Stempel der Schweizerischen Stiftung f&uuml;r Photographie, als sie noch im Kunsthaus in Z&uuml;rich beheimatet war.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Stempel der Schweizerischen Stiftung f&uuml;r Photographie, als sie noch im Kunsthaus in Z&uuml;rich beheimatet war.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T19:15:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644866108760",
+    "dcterms:modified" : "2022-02-14T19:15:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=483,758,140,130"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M482.54545,757.90626h70.09091v0h70.09091v65.09091v65.09091h-70.09091h-70.09091v-65.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b7dad278-5b3b-4dc1-8ec0-ef1159e468f2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5fb518bb-1712-41be-a4c0-561351ba6023"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bildcode Fotostiftung Schweiz. Das Bild ging 1977 in die Sammlung ein.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bildcode Fotostiftung Schweiz. Das Bild ging 1977 in die Sammlung ein.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T19:14:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644866040646",
+    "dcterms:modified" : "2022-02-14T19:14:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=19,1509,143,48"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M18.90909,1509.11287h71.45455v0h71.45455v24.18182v24.18182h-71.45455h-71.45455v-24.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_26f2291f-ef64-47a7-8d27-85941d2a009c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5fb518bb-1712-41be-a4c0-561351ba6023"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Signatur Ernst A. Heiniger",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Signatur Ernst A. Heiniger</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/98093080",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-14T19:12:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644865939158",
+    "dcterms:modified" : "2022-02-14T19:12:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/manifests/manifest_se1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=568,1262,355,147"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M568,1262.35454h177.36364v0h177.36364v73.27273v73.27273h-177.36364h-177.36364v-73.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c5a18fbc-a1dc-49b2-8873-9b9731541c6d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5fb518bb-1712-41be-a4c0-561351ba6023"
+    } ]
+  } ],
+  "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/c1c7729c1c7baa0b1e92ae066c1532b8.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
