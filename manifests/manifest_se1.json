@@ -50,7 +50,7 @@
         "on" : "http://4c892078-27c2-486f-9f14-3ef0782781ff"
       } ],
       "otherContent" : [ {
-        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/4d2a526df04969d8fd5a7cd3a31ebfe7.json",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/ee426f11f94d25f9ed4deac4c88b1d87.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotation Bild 01"
       } ],
@@ -86,7 +86,7 @@
         "on" : "http://8f9c2a03-3be1-49cd-9dfc-1e28b3cf4e01"
       } ],
       "otherContent" : [ {
-        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/6ae3030c76556e9bfcbb028b4284c0a0.json",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/26aa17c90f3ff0c012fba78a60acd3a1.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotation Bild 02"
       } ],
@@ -122,7 +122,7 @@
         "on" : "http://7e660855-cba2-4d2d-8594-da36529591d3"
       } ],
       "otherContent" : [ {
-        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/6e693443752c217731c82877b428eab7.json",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/4d2a526df04969d8fd5a7cd3a31ebfe7.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotation Bild 03"
       } ],
@@ -158,7 +158,7 @@
         "on" : "http://18d055bc-13b5-4e68-acac-06ac552fa150"
       } ],
       "otherContent" : [ {
-        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/26aa17c90f3ff0c012fba78a60acd3a1.json",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/93258dd989f4ddf4076d95df70846190.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotation Bild 04"
       } ],
@@ -194,7 +194,7 @@
         "on" : "http://9e0f0829-34a2-4900-b525-0a905e74e8a2"
       } ],
       "otherContent" : [ {
-        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/400fac73976ef072b1d4ce139b75a26b.json",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/fb605e47fa05c372a74f8844f08cca4a.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotation Bild 05"
       } ],
@@ -230,7 +230,7 @@
         "on" : "http://798589b7-7ae5-4566-acaa-c997b85793a3"
       } ],
       "otherContent" : [ {
-        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/93258dd989f4ddf4076d95df70846190.json",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/6e693443752c217731c82877b428eab7.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotation Bild 06"
       } ],
@@ -266,7 +266,7 @@
         "on" : "http://db489bed-cfdd-4795-9e6d-bd3a6d7d2c29"
       } ],
       "otherContent" : [ {
-        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/b7beb9ab79723be891bcc2ac61449770.json",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/400fac73976ef072b1d4ce139b75a26b.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotation Bild 07"
       } ],
@@ -302,7 +302,7 @@
         "on" : "http://f74905cf-eacc-4414-855c-3b435272c76c"
       } ],
       "otherContent" : [ {
-        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/c1c7729c1c7baa0b1e92ae066c1532b8.json",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/b7beb9ab79723be891bcc2ac61449770.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotation Bild 08"
       } ],
@@ -338,7 +338,7 @@
         "on" : "http://43e7b93f-ed54-430e-999c-081bb850f688"
       } ],
       "otherContent" : [ {
-        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/ee426f11f94d25f9ed4deac4c88b1d87.json",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/f25180ea89c34461a8c8d7eeef0ffb70.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotation Bild 09"
       } ],
@@ -374,7 +374,7 @@
         "on" : "http://5fb518bb-1712-41be-a4c0-561351ba6023"
       } ],
       "otherContent" : [ {
-        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/f25180ea89c34461a8c8d7eeef0ffb70.json",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/c1c7729c1c7baa0b1e92ae066c1532b8.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotation Bild 10"
       } ],
@@ -410,7 +410,7 @@
         "on" : "http://decdc386-db63-4c67-a8a0-4da78e0ec450"
       } ],
       "otherContent" : [ {
-        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/fb605e47fa05c372a74f8844f08cca4a.json",
+        "@id" : "https://heiniheini.github.io/HeinigerTest/annotations/6ae3030c76556e9bfcbb028b4284c0a0.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotation Bild 11"
       } ],
