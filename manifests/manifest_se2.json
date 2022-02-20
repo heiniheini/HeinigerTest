@@ -1,0 +1,851 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://ccdf817c-a750-4b12-8d7d-c2dfbdb845f9",
+	"@type": "sc:Manifest",
+	"label": "Fotostiftung Schweiz - Nachlass Ernst A. Heiniger - Weissweinstern",
+	"metadata": [
+		{
+			"label": "Label",
+			"value": "Value"
+		}
+	],
+	"description": [
+		{
+			"@value": "Die Fotografie «Weissweinstern» (1939) von Ernst Albrecht Heiniger liegt in der Sammlung der Fotostiftung Schweiz in verschiedenen Formen und Formaten vor, welche in dieser Sequenz vorgestellt und beschrieben werden.",
+			"@language": "de"
+		}
+	],
+	"attribution": "© Fotostiftung Schweiz",
+	"sequences": [
+		{
+			"@id": "http://d138e558-a427-46c5-b740-2cb222fe9630",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://4c892078-27c2-486f-9f14-3ef0782781ff",
+					"@type": "sc:Canvas",
+					"label": "Bild 01 - Negativ",
+					"height": 1665,
+					"width": 1200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8d5ba506-1c04-4664-9648-4ace1fbef5da",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/negativ.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/negativ.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 1998000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1665,
+								"width": 1200
+							},
+							"on": "http://4c892078-27c2-486f-9f14-3ef0782781ff"
+						}
+						
+					],
+					"otherContent": [
+						{
+							"@id": "https://heiniheini.github.io/HeinigerTest/annotations/ee426f11f94d25f9ed4deac4c88b1d87.json",
+							"@type": "sc:AnnotationList",
+							"label": "Annotation Bild 01"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://8f9c2a03-3be1-49cd-9dfc-1e28b3cf4e01",
+					"@type": "sc:Canvas",
+					"label": "Bild 02 - Negativ invertiert",
+					"height": 1657,
+					"width": 1200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3f68d32f-c4a3-470d-aac8-abeea961b42d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/negativ_p.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/negativ_p.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 1988400,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1657,
+								"width": 1200
+							},
+							"on": "http://8f9c2a03-3be1-49cd-9dfc-1e28b3cf4e01"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://heiniheini.github.io/HeinigerTest/annotations/26aa17c90f3ff0c012fba78a60acd3a1.json",
+							"@type": "sc:AnnotationList",
+							"label": "Annotation Bild 02"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://7e660855-cba2-4d2d-8594-da36529591d3",
+					"@type": "sc:Canvas",
+					"label": "Bild 03 - Kontaktbogen",
+					"height": 1200,
+					"width": 1835,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b395b607-efd8-4978-9e25-d7909e9a9573",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/Kontakt.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/Kontakt.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2202000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1200,
+								"width": 1835
+							},
+							"on": "http://7e660855-cba2-4d2d-8594-da36529591d3"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://heiniheini.github.io/HeinigerTest/annotations/4d2a526df04969d8fd5a7cd3a31ebfe7.json",
+							"@type": "sc:AnnotationList",
+							"label": "Annotation Bild 03"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://18d055bc-13b5-4e68-acac-06ac552fa150",
+					"@type": "sc:Canvas",
+					"label": "Bild 04 - Abzug retuschiert",
+					"height": 1470,
+					"width": 1200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3abbf256-9306-4dbd-9f29-f14bc8cca58a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/abzug_target.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/abzug_target.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 1764000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1470,
+								"width": 1200
+							},
+							"on": "http://18d055bc-13b5-4e68-acac-06ac552fa150"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://heiniheini.github.io/HeinigerTest/annotations/93258dd989f4ddf4076d95df70846190.json",
+							"@type": "sc:AnnotationList",
+							"label": "Annotation Bild 04"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://9e0f0829-34a2-4900-b525-0a905e74e8a2",
+					"@type": "sc:Canvas",
+					"label": "Bild 05 - Abzug Rückseite",
+					"height": 1403,
+					"width": 1200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://9ab6fd7d-429c-4817-b4e3-49f2b95d3426",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/abzug_verso.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/abzug_verso.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 1683600,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1403,
+								"width": 1200
+							},
+							"on": "http://9e0f0829-34a2-4900-b525-0a905e74e8a2"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://heiniheini.github.io/HeinigerTest/annotations/fb605e47fa05c372a74f8844f08cca4a.json",
+							"@type": "sc:AnnotationList",
+							"label": "Annotation Bild 05"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://798589b7-7ae5-4566-acaa-c997b85793a3",
+					"@type": "sc:Canvas",
+					"label": "Bild 06 - Abzug mit Markierung Bildausschnitt",
+					"height": 1403,
+					"width": 1200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://50674f27-5947-4627-a068-0da46853a3ca",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/abzug_recto.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/abzug_recto.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 1683600,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1403,
+								"width": 1200
+							},
+							"on": "http://798589b7-7ae5-4566-acaa-c997b85793a3"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://heiniheini.github.io/HeinigerTest/annotations/6e693443752c217731c82877b428eab7.json",
+							"@type": "sc:AnnotationList",
+							"label": "Annotation Bild 06"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://db489bed-cfdd-4795-9e6d-bd3a6d7d2c29",
+					"@type": "sc:Canvas",
+					"label": "Bild 07 - Buch Doppelseite",
+					"height": 1200,
+					"width": 1824,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://04cd4451-2a3a-40d7-afe9-b014e66caa7d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/Doppelseite.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/Doppelseite.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2188800,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1200,
+								"width": 1824
+							},
+							"on": "http://db489bed-cfdd-4795-9e6d-bd3a6d7d2c29"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://heiniheini.github.io/HeinigerTest/annotations/400fac73976ef072b1d4ce139b75a26b.json",
+							"@type": "sc:AnnotationList",
+							"label": "Annotation Bild 07"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f74905cf-eacc-4414-855c-3b435272c76c",
+					"@type": "sc:Canvas",
+					"label": "Bild 08 - Ausstellungsansicht",
+					"height": 1200,
+					"width": 1800,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://26e4b908-08d9-4830-a301-114f6fe33919",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/Ausstellung.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/Ausstellung.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2160000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1200,
+								"width": 1800
+							},
+							"on": "http://f74905cf-eacc-4414-855c-3b435272c76c"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://heiniheini.github.io/HeinigerTest/annotations/b7beb9ab79723be891bcc2ac61449770.json",
+							"@type": "sc:AnnotationList",
+							"label": "Annotation Bild 08"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://43e7b93f-ed54-430e-999c-081bb850f688",
+					"@type": "sc:Canvas",
+					"label": "Bild 09 - Abzug 1977",
+					"height": 1482,
+					"width": 1200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://51254d61-2a31-423c-bab5-3d488aca1a41",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/abzug1977.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/abzug1977.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 1778400,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1482,
+								"width": 1200
+							},
+							"on": "http://43e7b93f-ed54-430e-999c-081bb850f688"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://heiniheini.github.io/HeinigerTest/annotations/f25180ea89c34461a8c8d7eeef0ffb70.json",
+							"@type": "sc:AnnotationList",
+							"label": "Annotation Bild 09"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5fb518bb-1712-41be-a4c0-561351ba6023",
+					"@type": "sc:Canvas",
+					"label": "Bild 10 - Abzug 1977 Rückseite",
+					"height": 1587,
+					"width": 1200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://555b089e-a7fe-41a3-aa97-868dd60a0879",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/abzug1977_verso.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/abzug1977_verso.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 1904400,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1587,
+								"width": 1200
+							},
+							"on": "http://5fb518bb-1712-41be-a4c0-561351ba6023"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://heiniheini.github.io/HeinigerTest/annotations/c1c7729c1c7baa0b1e92ae066c1532b8.json",
+							"@type": "sc:AnnotationList",
+							"label": "Annotation Bild 10"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://decdc386-db63-4c67-a8a0-4da78e0ec450",
+					"@type": "sc:Canvas",
+					"label": "Bild 11 - Skizze",
+					"height": 1200,
+					"width": 2293,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ab4a1336-c889-4642-82e2-e8a424440696",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://127.0.0.1:8182/iiif/2/Skizze.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://127.0.0.1:8182/iiif/2/Skizze.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 2751600,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1200,
+								"width": 2293
+							},
+							"on": "http://decdc386-db63-4c67-a8a0-4da78e0ec450"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://heiniheini.github.io/HeinigerTest/annotations/6ae3030c76556e9bfcbb028b4284c0a0.json",
+							"@type": "sc:AnnotationList",
+							"label": "Annotation Bild 11"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "left-to-right",
+	"logo": "https://cdn.artagenda.com/wp-content/uploads/2012/10/Logo-Fotostiftung-Schweiz.jpg"
+}
